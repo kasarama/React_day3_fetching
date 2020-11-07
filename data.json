@@ -1,0 +1,74 @@
+{
+  "api": [
+    {
+      "id": "59dde0def94062f06bcc1211",
+      "age": 27,
+      "name": "Gale Sullivan",
+      "gender": "female",
+      "email": "galesullivan@zedalis.com"
+    },
+    {
+      "id": "59dde0deb5516ea4f23590f9",
+      "age": 31,
+      "name": "Karyn Fulton",
+      "gender": "female",
+      "email": "karynfulton@zedalis.com"
+    },
+    {
+      "id": "9ybhgQG",
+      "age": "49",
+      "name": "Ken Mallow",
+      "email": "ken@mallo.com",
+      "gender": "male"
+    },
+    {
+      "id": "tQcabRf",
+      "age": "85",
+      "name": "Mona Lisa",
+      "email": "mona@lisa.com",
+      "gender": "female"
+    },
+    {
+      "id": "Y7DEJ8x",
+      "age": "27",
+      "name": "Ola MAnola",
+      "email": "mala@ola.ma",
+      "gender": "female"
+    },
+    {
+      "id": "_XiYOHk",
+      "age": "32",
+      "name": "Magdalena Wawrzak",
+      "email": "magdalenwrzak@mail.com",
+      "gender": "female"
+    },
+    {
+      "id": "8gVj0Hn",
+      "age": "20",
+      "name": "Edited",
+      "email": "k@k.l",
+      "gender": "male"
+    },
+    {
+      "id": "laqKFBO",
+      "age": "58",
+      "name": "Marek",
+      "email": "k@k.m",
+      "gender": "female"
+    },
+    {
+      "id": "hkxn1YJ",
+      "age": "1",
+      "name": "Added",
+      "email": "add@a.l",
+      "gender": "male"
+    },
+    {
+      "id": "JdR9XFl",
+      "age": "2",
+      "name": "New one",
+      "email": "k@k.l",
+      "gender": "female"
+    }
+  ]
+}
